@@ -1,5 +1,5 @@
 ---
-description: How can we support each other dancing with our dragons?
+description: How can we support each doing better?
 ---
 
 # 8. Feedback \(50%\)
