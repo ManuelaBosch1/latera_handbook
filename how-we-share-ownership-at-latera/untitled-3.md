@@ -25,7 +25,7 @@ List of Lateras key-assets.
 | Equity | belongs to the company | general assembly? |
 | [Profits](9.-surpluses.md) | belongs to those with econmic rights | investors? |
 
-
+**\#**_in der ersten abteilung stimmt "developer" nicht, zumindest nicht bei "Design"; "Design" und eine weitere kategorie mit dem titel "Concepts" and Products ist "steward by Designer"_
 
 
 
