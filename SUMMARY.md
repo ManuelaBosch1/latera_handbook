@@ -1,10 +1,12 @@
 # Table of contents
 
 * [I. INTRODUCTION \(30%\)](README.md)
+* [Why do we want to be a cooperative](why-do-we-want-to-be-a-cooperative.md)
 * [II. HOW WE THINK \(0%\)](ii.-how-we-think/README.md)
   * [1. Conceptual Thinking](ii.-how-we-think/untitled-1.md)
   * [2. Compassionate relationships](ii.-how-we-think/untitled.md)
 * [II. HOW WE SHARE](how-we-share-ownership-at-latera/README.md)
+  * [1. Reason](how-we-share-ownership-at-latera/1.-reason.md)
   * [1. Stakeholders \(70%\)](how-we-share-ownership-at-latera/2.-stakeholders.md)
   * [2. Engagement \(80%\)](how-we-share-ownership-at-latera/3.-engagement.md)
   * [3. Assets \(50%\)](how-we-share-ownership-at-latera/untitled-3.md)
