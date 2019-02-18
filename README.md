@@ -1,64 +1,56 @@
 ---
-description: About Latera and this document
+description: Introduction
 ---
 
-# I. INTRODUCTION \(30%\)
+# I. The Latera Handbook
 
-Latera is a Learning Innovation Organisation that promotes conceptual thinking and ethical AI.
+## 1. For whom this handbook is and how to use it
 
-Our main fields of operation are:
+Imagine your company as a vehicle – You want everyone in the organization being able, not only to drive, but also to maintain.
 
-* A developer center for apps that provide automatized communication & design solutions for digital platforms.
-* A magazine and that promotes conceptual thinking, as a way to build capacity to cope with the complexity of the world today.
-* A learning community for coneptual, creative and lateral __thinking and creative action.
+You want to work collaboratively and share ownership, because you want this organization to ‚run on it’s own‘ – like a living organism, like an ecosystem.
+
+Therefor you need a handbook: a comprehensive, understandable and motivational manual on how your organization works.
+
+
+
+_What are the key ways that you want to use this document? A few possibilities are_
+
+* _Help in recruiting value aligned talent_
+* _Help people decide if they’re a good fit in your organization_
+* _Share a sense of belonging for those already in or joining the organization_
+
+\_\_
+
+* _How can we be conscious about the language that we choose?_
+  * _Employee vs. partner_
+  * _Policy vs. agreement_
+
+\_\_
+
+* Focus on the sections that are going to have the biggest impact on your goals
+
+_Read_ [_suggestions_](https://docs.google.com/document/d/16IJcS7gCuULypz8LHwtW92StOeKzwY718IxH6QdGSDg/edit?ts=5be719b8) _for working on handbooks_
+
+## 2. The idea and the value of Latera
+
+Latera is a Learning Innovation Organisation that promotes creative learning and ethical AI.
+
+Latera's main fields of operation are:
+
+* Development center for digital apps that provide design capacity of digital platforms  
+* A magazine and that promotes creative/lateral thinking and capacity building to cope with the challenges of the world today.
+* A learning community for creative/lateral __thinking and creative action.
+
+**About lateral/creative/conceptual thinking** 
 
 ![](.gitbook/assets/left-rightbrain.jpg)
 
-## This handbook today
+## 3. Our story and about founder
 
-Currently, Latera is in an early start-up stage. We have various fast evolving concepts on the different fields of operations of the company, an experienced, visionary and enthusiastic founder supported by a team of different experts and contributors, and a first product that will go into prototype production phase soon. 
-
-This handbook is part of the start-up development activities, since we imagine Latera as a vehicle, we want everyone in the organization being able, not only to drive it, but also to maintain it. We want to work collaboratively and share ownership, because we want to enable people to steer and develop it collectively, in a way that it serves the common purpose, the organization and themselves best. Therefor we are creating this handbook: a comprehensive, understandable and motivational manual on how our organization works.
-
-This handbook is intendet to serve Latera founders, employees, partners and supporters in the following ways:
-
-* **Organizational development** – be a tool and dicussion basis for our organizational design in the current start-up phase by collaboratively documenting current developments and agreements. 
-* **Recruiting** – help those interested to join, to learn if they are a good fit to the organization. 
-* **Community Building** – help to develop a sense of belonging for those already in or joining the organization.
-* **Self-Organization** - Be a user-manual and repository of knowlege for day to day self-management, communication and governance
-
-This document claims neither to be complete nor perfect, but rather a living working document, that helps Latera folks to think and work collaboratively, and to share our state of the art and ideas with others who are interested in how we do things. We encourage feedback and questions, please get in touch if you see something you want to learn more of or that could be improved.
-
-## **Our Story**
-
-_**\(marita\)**_
-
-## **Our Vision**
-
-**...**
-
-_vision, goals, values and guiding principles_
-
-_Kreative lösungen/tools Erarbeiten, die Menschen auf empathische weise helfen, mit komplexen Herausforderungen zurecht zu kommen._
-
-\_\_
-
-Our organization's purpose: 
-
-_helping people in a creative and empathic/compassionate way, to deal with complex challenges in the world today_
-
-\_\_
-
-\_\_
-
-* * 
+## 4. The vision, goals, values and guiding principles
 
 
-
-
-### \*\*\*\*
-
- 
 
 ## 
 

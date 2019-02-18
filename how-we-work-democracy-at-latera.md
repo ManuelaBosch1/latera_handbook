@@ -1,46 +1,19 @@
 ---
-description: How we enable collaboration through democratic governance.
+description: How we at Latera do our governance.
 ---
 
-# III. HOW WE WORK
+# III. How we work
 
 ## **1.** Culture – What is the culture that guides us?
 
 Key Rituals & Routines
 
-Dragon Dreaming!!!!
-
 Team dynamics and expectations
-
-1. * e.g..Scrum, Lean Start-up principles
-   * Dragon Dreaming
 
 Quiet vs. boisterous cultures, Aim for reality, not aspiration in this
 
-
-
-
-
-**HOW WE WORK – DEMOCRACY VARIABLES**
-
-Culture – What is the culture that guides us?
-
-1. 2. 
-Body – Where does power to decide reside?
-
-
-
-1. 2. 1. Body – Where does power to decide reside?
-   2. Instruments – Which democratic means do we use?
-   3. Rhythm – When and how do we come together?
-   4. Place – Where do we come together?
-3. Protocols – **How do we communicate?**
-4. **Structure – What units do exist and how do they relate?**
-5. **Integrity – How is integrity of the system maintained?**
-6. **Conflicts - How do we deal with conflicts?**
-7. **Scaling – How are economies of scale contained?**
-8. **Brand – How do we communicate to the world?**
-9. **Happiness – How is wellbeing supported?**
+1. * e.g..Scrum, Lean Start-up principles
+   * Dragon Dreaming
 
 ## 2. Body – Where does power to decide reside?
 
@@ -50,17 +23,17 @@ Body – Where does power to decide reside?
 
 Decision Making
 
-Intuition ist wichtig 
-
-Kreativität / systemisches Denken bei der Entscheidungsfindung 
-
-Beispiel Vanilla Way
-
 ## 4. Rhythm – When and how do we come together?
 
 ## 5. Place – Where do we come together?
 
-Anfangsphase Teams zusammen, gemeinsamer Ort, Lab
+## 6. Protocols \(**?\)** – **How do we communicate?**
+
+Preferred communication channels
+
+## **7. Structure – What units do exist and how do they relate?**
+
+What hierarchy or structures represent how we’re organized?
 
 [Inspired by Spotify](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
@@ -114,46 +87,15 @@ Anfangsphase Teams zusammen, gemeinsamer Ort, Lab
 
 
 
-## 6. Protocols \(**?\)** – **How do we communicate?**
-
-Preferred communication channels
-
-## **7. Structure – What units do exist and how do they relate?**
-
-What hierarchy or structures represent how we’re organized?
-
-Design und Entwicklung gleichwertig.
-
-[https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
-
-\(Marita\) 
-
 ## **8. Scaling – How are economies of scale contained?**
-
-**Knowledge Exchange etc**
 
 ## **9. Integrity – How is integrity of the system maintained?**
 
-**Rituale**
-
 ## **10. Brand – How do we communicate to the world?**
-
---&gt; How we walk 
 
 ## **11. Conflicts - How do we deal with conflicts?**
 
-* Arten von Konflikten
-  * Tension
-  * Interpresonal 
 * Conflict resolution processes 
 
 ## **12. Happiness – How is wellbeing supported?**
-
-**Rolle**
-
-**Rituale**
-
-**Team-Retreats**
-
-
 

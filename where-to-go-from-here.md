@@ -4,7 +4,7 @@
 
 Who owns this document? How to update this document?
 
-## Where to go to from here?
+## Where to go to?
 
 If I wanted to get more real time information, especially on the big challenges we face, where would I go?
 
